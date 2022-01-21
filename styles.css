@@ -1,5 +1,5 @@
 .bg-image-darken{
-  background: rgba(0, 0, 0, .21);
+  background: rgba(0, 0, 0, .51);
   background-image:url(bg.jpg);
 background-size:cover;
 background-blend-mode: darken;
